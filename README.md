@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:Jintapat Taai
+# STUDENT ID:650610829
